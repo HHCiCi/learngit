@@ -1,0 +1,29 @@
+[33mcommit c1205079a8ba79733f6b75d8f8b91f7d4961fc9d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: CC <lotus-hehuan@163.com>
+Date:   Thu Aug 16 19:32:32 2018 +0800
+
+    Git tracks changes of files
+
+[33mcommit b9f18cdb21550ce9785e47cccfb2298fd6fdcf41[m
+Author: CC <lotus-hehuan@163.com>
+Date:   Thu Aug 16 19:27:28 2018 +0800
+
+    git tracks changes
+
+[33mcommit e5832f4efeb7de70bfa1c0791183429095788660[m
+Author: CC <lotus-hehuan@163.com>
+Date:   Thu Aug 16 19:18:29 2018 +0800
+
+    understand how stage works
+
+[33mcommit e955147794b8922a513c4b5bd715309fbe33d8c9[m
+Author: CC <lotus-hehuan@163.com>
+Date:   Thu Aug 16 13:53:14 2018 +0800
+
+    append GPL
+
+[33mcommit 4be4e3fd26bcf70ff992584d881500b6b4cf7ce8[m
+Author: CC <lotus-hehuan@163.com>
+Date:   Thu Aug 16 13:49:37 2018 +0800
+
+    wrote a readme file
